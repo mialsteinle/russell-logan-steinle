@@ -10,5 +10,4 @@ cloud-fields: site.data.theme.medium-fields
 
 ## Browse Mediums
 
-Use this word cloud visualization to browse the collection by medium.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Click on a term below to browse by the original physical medium of the digital items in this collection.
