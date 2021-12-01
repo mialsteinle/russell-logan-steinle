@@ -17,4 +17,4 @@ This is a collection of photographs, documents, and other items related to Russe
 
 ## How to Navigate the Collection
 
-There are several ways to view this collection. Select [Browse](pages/browse.md) to view every item in the collection. Select [Subjects](pages/subjects.md), [Medium](pages/medium.md), or [Location](pages/location.md) to browse the collection by category. Select [Timeline](pages/timeline.md) to the view the collection by date. Or select [Data](pages/data.md) to view and download the complete collection metadata.
+There are several ways to view this collection. Select [Browse](/browse.md) to view every item in the collection. Select [Subjects](/subjects.md), [Medium](/medium.md), or [Location](/location.md) to browse the collection by category. Select [Timeline](/timeline.md) to the view the collection by date. Or select [Data](/data.md) to view and download the complete collection metadata.
