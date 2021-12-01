@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/nav-menu.html sections="About the Collection;How to Navigate the Collection;Technical Credits" %}
+{% include feature/nav-menu.html sections="About the Collection;How to Navigate the Collection" %}
 
 ## About the Collection
 
