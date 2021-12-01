@@ -10,4 +10,4 @@ cloud-fields: site.data.theme.medium-fields
 
 ## Browse Mediums
 
-Click on a term below to browse by the original physical medium of the digital items in this collection.
+This collection consists of digital surrogates of physical items. Click on a term below to browse by the collection by the original physical medium of each digital item. 
