@@ -3,3 +3,4 @@ date,Date,,,
 subject,Subjects,true,,
 location,Location,true,,
 medium,Medium,true,,
+description,Description,,true
