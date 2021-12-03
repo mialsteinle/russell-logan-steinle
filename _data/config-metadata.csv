@@ -8,4 +8,4 @@ identifier,Source Identifier,,
 type,Type,,
 format,Format,,
 medium,Medium,true,
-rights,Rights,,
+rights,Rights,,true
